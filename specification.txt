@@ -1,0 +1,11 @@
+HTML tags used: header, h1, h2, div, p, button, nav, hr, ul, li, main
+
+CSS selectors used: *::after & *::before, a:visited, .header-wrapper, .info p, header #menu-btn, etc...
+
+CSS properties used: margin, padding, box-sizing, list-style, color, text-decoration, display, etc...
+
+JavaScript: I used JavaScript to create a single page website, by creating each page dinamically and
+appending it to the main html, and generating each page by adding event listeners to the navigation links.
+
+Bootstrap: I used the collapse component of Bootstrap alongside a menu button to create a collapsing nav 
+on mobile, that opens and collapses as the user clicks the menu button.
